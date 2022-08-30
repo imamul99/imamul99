@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imamul Haque</h1>
 <h3 align="center">MERN Stack Devekloper</h3>
-<img align="right" width="400" scr="https://i.pinimg.com/736x/ce/2c/a9/ce2ca922671610b892b1347e094d4d6e.jpg" alt="coding">
+<img align="right" width="400" scr="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imamul99&label=Profile%20views&color=0e75b6&style=flat" alt="imamul99" /> </p>
 
